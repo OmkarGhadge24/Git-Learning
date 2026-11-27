@@ -1,5 +1,3 @@
 Hello, Welcome to git learning
 
 Let's start with git
-
-bug was added 🐛
