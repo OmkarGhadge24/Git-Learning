@@ -3,3 +3,5 @@ Hello, Welcome to git learning
 Let's start with git
 
 Start learning new git concepts
+
+For that read the README.md file and practice
