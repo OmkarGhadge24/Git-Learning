@@ -2,4 +2,6 @@ Hello, Welcome to git learning
 
 Let's start with git
 
-This is new line
+Start learning new git concepts
+
+For that read the README.md file and practice
