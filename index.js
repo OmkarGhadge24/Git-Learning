@@ -9,3 +9,9 @@ function getWelcome() {
 }
 
 getWelcome();
+
+function getGoodbye() {
+    console.log("Goodbye!!!");
+}
+
+getGoodbye();
